@@ -3,7 +3,7 @@ const listContainer = document.getElementById("list-container");
 // This function adds the task if the condition is met
 function addTask(){
     if(inputBox.value === ''){
-        alert("escriba su tarea!");
+        alert("escriba su comentario!");
     }
     else{
         let li = document.createElement("li");
