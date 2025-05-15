@@ -10,7 +10,7 @@
     background: linear-gradient(135deg, #153677, #4e085f);
     padding: 10px;
 }
-.ppe-app{
+.tareas{
     width: 100%;
     max-width: 540px;
     background: #fff;
@@ -19,7 +19,7 @@
     border-radius: 10px;
 }
 
-.ppe-app h2{
+.tareas h2{
     color: #002765;
     display: flex;
     align-items: center;
